@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Hidden in Plain Sight: Upgrading a Settlement in Europa Universalis V"
+---
+
 # Hidden in Plain Sight: Upgrading a Settlement in Europa Universalis V
 
 I've been playing Europa Universalis V (EU5), a grand strategy game where you manage a country through its politics, economy, diplomacy, and military. For the history buffs who might look through and scrutinize my playthrough, yes, I managed to restore the Roman Empire as Byzantium. Anyway, one of the more important aspects of the game is developing your country's economy, especially when you're trying to sustain an empire of this caliber, among many other global powers.
